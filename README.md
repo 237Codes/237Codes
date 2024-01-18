@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React(Next.js)**
 
-- 👨‍💻 All of my projects are available at [manyakaanjorin.vercel.app](manyakaanjorin.vercel.app)
+- 👨‍💻 All of my projects are available at [manyakaanjorin.vercel.app](https://manyakaanjorin.vercel.app)
 
 - 💬 Ask me about **C++, react, TypeScript, Tailwind**
 
