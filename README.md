@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Manyaka Anjorin</h1>
 <h3 align="center">A full stack developer, passionate about programming</h3>
 
-<img align=“right” alt=“Coding” width=“600” src=“https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=237codes&label=Profile%20views&color=0e75b6&style=flat" alt="237codes" /> </p>
 
