@@ -2,7 +2,7 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)](https://manyakaanjorin.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Manyaka Anjorin</h1>
-<h3 align="center">A full stack developer, passionate about programming</h3>
+<h3 align="center">An Aspiring Software Engineer, passionate about programming</h3>
 
 
 
@@ -23,7 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manyaka anjorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manyaka anjorin" height="30" width="40" /></a>
-<a href="https://instagram.com/manyaka_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manyaka_codes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/a_maniaka99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_maniaka99" height="30" width="40" /></a>
 </p>
 
