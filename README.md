@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C++, react, TypeScript**
+- 💬 Ask me about **React, TypeScript**
 
 - 📫 How to reach me **anjorinmanyake@gmail.com**
 
