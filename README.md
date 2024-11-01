@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anjorinmanyake@gmail.com**
 
-- ⚡ Fun fact **I speak 2 different languages**
+- ⚡ Fun fact **my most memorable experience is skydiving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
