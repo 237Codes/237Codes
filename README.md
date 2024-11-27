@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=237codes&label=Profile%20views&color=0e75b6&style=flat" alt="237codes" /> </p>
 
-  - 🔭 I’m currently working on [travel-memories-app](https://github.com/237Codes/travel-memories-app.git)   <!-- This displays a link to what I am presently working on -->
+  - 🔭 I’m currently working on [stock-price-visualization project](https://github.com/237Codes/stocks-price-visualization)   <!-- This displays a link to what I am presently working on -->
 
 - 🌱 I’m currently learning **React**
 
