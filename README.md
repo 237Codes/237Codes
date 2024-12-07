@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anjorinmanyake@gmail.com**
 
-- ⚡ Fun fact **my most memorable experience is skydiving**
+- ⚡ Fun fact **I was sent abroad to tour Italy and the Vatican on a fully funded scholarship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
