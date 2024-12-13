@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anjorinmanyake@gmail.com**
 
-- ⚡ Fun fact **I was sent abroad to tour Italy and the Vatican on a fully funded scholarship**
+- ⚡ Fun fact **I studied abroad in Italy and toured the Sistine Chapel on a fully funded scholarship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
