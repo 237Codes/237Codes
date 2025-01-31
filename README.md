@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anjorinmanyake@gmail.com**
 
-- ⚡ Fun fact **I studied abroad in Italy and toured the Sistine Chapel **
+- ⚡ Fun fact **I studied abroad in Italy **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
