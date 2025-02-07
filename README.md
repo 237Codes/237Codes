@@ -10,7 +10,7 @@
 
   - 🔭 I’m currently working on [stock-price-visualization project](https://github.com/237Codes/stocks-price-visualization)   <!-- This displays a link to what I am presently working on -->
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java Springboot**
 
 - 💬 Ask me about **React, TypeScript, Python**
 
