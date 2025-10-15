@@ -1,8 +1,8 @@
 
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)](https://manyakaanjorin.vercel.app)
 
-<h1 align="center">Hi 👋, I'm Manyaka Anjorin</h1>
-<h3 align="center">An incoming Software Engineer Intern at JP Morgan Chase. Let's build it, break it, and build it again! Then repeat! </h3>
+<h1 align="center">Hi 👋, I'm Manyaka</h1>
+<h3 align="center">A SWE JP Morgan Chase. Let's build it, break it, and build it again! Then repeat! </h3>
 
 
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, TypeScript, Python**
 
-- 📫 How to reach me **anjorinmanyake@gmail.com**
+- 📫 How to reach me **@gmail.com**
 
 - ⚡ Fun fact **I studied abroad in Italy**
 
