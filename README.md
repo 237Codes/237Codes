@@ -2,17 +2,17 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)](https://manyakaanjorin.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Manyaka</h1>
-<h3 align="center">A SWE JPMorganChase. Let's build it, break it, and build it again! Then repeat! </h3>
+<h3 align="center">Let's build it, break it, and build it again! Then repeat! </h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=237codes&label=Profile%20views&color=0e75b6&style=flat" alt="237codes" /> </p>
 
-  - 🔭 I’m currently working on [stock-price-visualization project](https://github.com/237Codes/stocks-price-visualization)   <!-- This displays a link to what I am presently working on -->
+  - 🔭 I’m currently working on [AWS Solutions Architect Associate]([https://github.com/237Codes/stocks-price-visualization](https://aws.amazon.com/certification/certified-solutions-architect-associate/)   <!-- This displays a link to what I am presently working on -->
 
-- 🌱 I’m currently learning **Java Springboot**
+- 🌱 I’m currently learning **AWS PLatform, Terraform**
 
-- 💬 Ask me about **React, TypeScript, Python**
+- 💬 Ask me about **Backend Engineering, AWS, Python, Java, Terraform**
 
 - 📫 How to reach me **@gmail.com**
 
@@ -42,4 +42,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=237codes&show_icons=true&locale=en" alt="237codes" /></p> --> <!-- THis displays the stats bar -->
 
- <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=237codes&" alt="237codes" /></p>  <!-- THis displays my current streak on github -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=237codes&" alt="237codes" /></p>  <!-- THis displays my current streak on github -->
