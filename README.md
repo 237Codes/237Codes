@@ -42,4 +42,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=237codes&show_icons=true&locale=en" alt="237codes" /></p> --> <!-- THis displays the stats bar -->
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=237codes&" alt="237codes" /></p>  <!-- THis displays my current streak on github -->
+ <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=237codes&" alt="237codes"/></p>  <!-- THis displays my current streak on github -->
