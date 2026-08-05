@@ -1,45 +1,118 @@
-
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)](https://manyakaanjorin.vercel.app)
-
 <h1 align="center">Hi 👋, I'm Manyaka</h1>
-<h3 align="center">Let's build it, break it, and build it again! Then repeat! </h3>
+<h3 align="center">Let's build it, break it, and build it again! Then repeat!</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+AWS+%7C+Python;Building+Platforms+that+Scale;Currently+learning+AWS+Dev+Associate+%F0%9F%9A%80;Always+shipping%2C+always+learning" alt="Typing SVG" />
+</p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=237codes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="237codes" /> <img src="https://img.shields.io/github/followers/237codes?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="followers" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=237codes&label=Profile%20views&color=0e75b6&style=flat" alt="237codes" /> </p>
+---
 
-  - 🔭 I’m currently working on [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)   <!-- This displays a link to what I am presently working on -->
+### 🚀 About Me
 
-- 🌱 I’m currently learning **AWS PLatform, Terraform**
+- 🔭 I'm currently working on **[AWS Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/)**
+- 🌱 I'm currently learning **AWS Platform & AI Agents**
+- 💬 Ask me about **Backend Engineering, AWS, Python, Platform/Infrastructure Engineering**
+- 📫 Reach me at **@gmail.com**
+- ⚡ Fun fact: **I speak multiple languages**
 
-- 💬 Ask me about **Backend Engineering, AWS, Python, Java, Terraform**
+---
 
-- 📫 How to reach me **@gmail.com**
+### 🌐 Connect with me
 
-- ⚡ Fun fact **I studied abroad in Italy**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manyaka anjorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manyaka anjorin" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/a_maniaka99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_maniaka99" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/manyaka-anjorin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<!--
+<a href="https://leetcode.com/a_maniaka99" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+-->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=237codes&show_icons=true&locale=en&layout=compact" alt="237codes"/></p>
+---
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=237codes&show_icons=true&locale=en" alt="237codes" /></p> --> <!-- THis displays the stats bar -->
+🤖 AI / ML
 
- <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=237codes&" alt="237codes"/></p>  <!-- THis displays my current streak on github -->
+<p align="left"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/> <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/> <img src="https://img.shields.io/badge/AI%20Agents-0e75b6?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/> <img src="https://img.shields.io/badge/Vector%20DBs%20(Pinecone%2FFAISS)-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector Databases"/> <img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-6E56CF?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/> </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=237codes&theme=tokyonight" alt="237codes streak stats"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/237codes/237codes/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<!--
+  ⚙️ SETUP NOTES (delete once done):
+
+  1. Snake animation: add this GitHub Action to a repo named exactly after your
+     username (237codes/237codes) at .github/workflows/snake.yml:
+
+     name: generate animation
+     on:
+       schedule:
+         - cron: "0 */12 * * *"
+       workflow_dispatch:
+       push:
+         branches: [ main ]
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: 237codes
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v3
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  2. All stats widgets above assume your GitHub username is "237codes" —
+     replace it everywhere if that's not right.
+
+  3. Swap in your real LinkedIn URL and email address.
+
+  4. Themes used: tokyonight. Other popular options: dracula, radical,
+     merko, gruvbox, onedark, cobalt, synthwave — just swap the `theme=`
+     query param.
+-->
