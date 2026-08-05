@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,8 +13,8 @@ jobs:
       - name: generate-github-3d-contribution
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: 237Codes
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           YEAR: "2024"
       - name: commit and push
         run: |
