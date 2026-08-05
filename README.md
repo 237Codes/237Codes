@@ -70,7 +70,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Automation in Action
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/237codes/237codes/output/github-contribution-grid-snake.svg" alt="snake animation" />
