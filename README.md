@@ -72,47 +72,9 @@
 ---
 
 ### 🐍 Automation in Action
+<p align="center"> <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D contribution graph (dark)" /> <img src="./profile-3d-contrib/profile-day-rainbow.svg#gh-light-mode-only" alt="3D contribution graph (light)" /> </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/237codes/237codes/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<!--
-  ⚙️ SETUP NOTES (delete once done):
-
-  1. Snake animation: add this GitHub Action to a repo named exactly after your
-     username (237codes/237codes) at .github/workflows/snake.yml:
-
-     name: generate animation
-     on:
-       schedule:
-         - cron: "0 */12 * * *"
-       workflow_dispatch:
-       push:
-         branches: [ main ]
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: 237codes
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  2. All stats widgets above assume your GitHub username is "237codes" —
-     replace it everywhere if that's not right.
-
-  3. Swap in your real LinkedIn URL and email address.
-
-  4. Themes used: tokyonight. Other popular options: dracula, radical,
-     merko, gruvbox, onedark, cobalt, synthwave — just swap the `theme=`
-     query param.
--->
