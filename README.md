@@ -71,7 +71,7 @@
 
 ---
 
-### 🐍 Automation in Action
+### Automation in Action
 <p align="center"> <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D contribution graph (dark)" /> <img src="./profile-3d-contrib/profile-day-rainbow.svg#gh-light-mode-only" alt="3D contribution graph (light)" /> </p>
 
 <p align="center">
