@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: generate-github-3d-contribution
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.9.3
         env:
           USERNAME: 237Codes
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
