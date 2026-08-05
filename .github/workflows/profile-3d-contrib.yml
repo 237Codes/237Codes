@@ -15,7 +15,7 @@ jobs:
         env:
           USERNAME: 237Codes
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          YEAR: "2024"
+          
       - name: commit and push
         run: |
           git config user.name github-actions
