@@ -16,7 +16,6 @@
 - 🔭 I'm currently working on **[AWS Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/)**
 - 🌱 I'm currently learning **AWS Platform & AI Agents**
 - 💬 Ask me about **Backend Engineering, AWS, Python, Platform/Infrastructure Engineering**
-- 📫 Reach me at **@gmail.com**
 - ⚡ Fun fact: **I speak multiple languages**
 
 ---
@@ -67,6 +66,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=237codes&theme=tokyonight" alt="237codes streak stats"/>
 </p>
+<!-- leetcode heat map, Add when substential progress made on leetcode -->
+<!-- <p align="center"> <img src="https://leetcard.jacoblin.cool/a_maniaka99?ext=heatmap" alt="LeetCode stats"/> </p> -->
 
 ---
 
