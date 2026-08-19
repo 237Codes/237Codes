@@ -82,7 +82,7 @@
 <p align="left"> 
   <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
   <img src="https://img.shields.io/badge/AI%20Agents-0e75b6?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Vector%20DBs%20(Pinecone)-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector Databases"/> 
+  <img src="https://img.shields.io/badge/Vector%20DBs-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector Databases"/> 
   <img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-6E56CF?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/> 
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> 
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
